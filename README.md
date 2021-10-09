@@ -90,4 +90,4 @@ webpmux -version
 * [`Slavyan`](https://github.com/SlavyanDesu)
 * [`Galang`](https://github.com/Zobin33)
 * [`Franky`](https://github.com/Frankysolo)
-* [`Xone03`](https://github.com/Xone03
+* [`Xone03`](https://github.com/Xone03)
