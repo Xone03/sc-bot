@@ -19,6 +19,11 @@
 
 ---
 
+# Features
+- Cek [disini](https://github.com/Xone03/sc-bot/blob/master/message/help.js)
+
+# Setting
+- Cek [disini](https://github.com/Xone03/sc-bot/edit/master/setting.json)
 
 
 # Requirements
@@ -77,9 +82,6 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 webpmux -version
 ```
-
-# Features
-- Cek [disini](https://github.com/Xone03/sc-bot/blob/master/message/help.js)
 
 # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
