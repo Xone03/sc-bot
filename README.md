@@ -3,13 +3,9 @@
 
 # Alphabot
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Alphabot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
